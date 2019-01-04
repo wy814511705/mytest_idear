@@ -6,7 +6,7 @@ package com.wy.domain;
 public class User {
     private Integer id;
     private String name;
-
+    private Integer age;
     public Integer getId() {
         return id;
     }
